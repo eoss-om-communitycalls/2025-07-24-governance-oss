@@ -1,5 +1,3 @@
-# TEMPLATE-callreport
+# Governance Signals and Strategies for OSS Projects
 
-A Quarto Template for community call reports
-
-This template can be used to create new repositories for reports.
+This document helps projects understand when it is time to revisit their governance and offers some principles and resources for healthy governance development.
