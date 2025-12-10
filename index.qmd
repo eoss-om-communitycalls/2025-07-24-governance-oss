@@ -1,8 +1,8 @@
 ---
-title: "An example report "
-subtitle: "Exploring how to report out from community calls"
-authors: ["Author Number One", "Author Number Two"]
-date: "August 13, 2024"
+title: "Governance Signals and Strategies for Open Source Scientific Projects"
+subtitle: "Prompts for conversations with your project's community"
+authors: ["Matt Akamatsu", "Sophie Breitbart", "Jennifer Clark", "Chuck Daniels", "Beth Duckles", "Jonah Duckles", "Kate Hertweck", "Kari L. Jordan", "Beryl Kanali", "Esther Plomp", "Reshama Shaikh", "Dan Sholler", "Malvika Sharan", "Greg Wilson", "Kirstie Whitaker"]
+date: "July 24, 2025"
 format:
     html: 
       self-contained: true
@@ -15,40 +15,104 @@ citation-location: margin
 bibliography: bibliography.bib
 ---
 
-This template can be used to create simple reports for reporting the output / outcomes of activities and events. It is built and rendered using quarto 
+*In this document, we share insights discussed in the Chan-Zuckerberg Initiative’s Essential Open Source Software program community call held on July 24, 2025\.*  
 
-# Section 1 
+This resource is intended to be a conversation-starter for open source software project leaders, their collaborators, staff, and community. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla placerat pretium tempus. Mauris eget nisl ante. Etiam iaculis, nisl ultricies facilisis aliquet, urna odio porta nisi, non tristique enim sapien eget mi. Proin sed orci lobortis, sodales orci quis, consectetur nulla. Phasellus eget enim rhoncus, fermentum nisi ut, aliquet nulla. Sed mollis ullamcorper dolor, at tempus est vulputate eget. Mauris consequat felis nec eros venenatis, sit amet tempor neque consectetur. Curabitur pharetra, metus a sodales fermentum, neque libero sollicitudin magna, eget fermentum sapien dolor sit amet dolor. Fusce odio felis, pulvinar in laoreet at, sodales sed magna. Sed sagittis, enim id feugiat laoreet, erat nisi rhoncus ipsum, vitae suscipit quam nulla id libero. Integer condimentum, eros eget rutrum porta, tortor turpis sodales ligula, a facilisis nisi tortor id risus. [^note]
+*The topics contained in the first version of this document reflect only what we discussed on the CZI EOSS community call. We encourage suggestions and contributions to expand the scope of scaling strategies that open source project leaders should consider when managing a project, as well as resources that would be helpful to leaders and their projects.*
 
-[^note]: this is a sidenote. it can contain whatever HTML content you want in it. 
+---
 
-## Subsection 1.1
+### Key Signals It's Time to Reassess Governance:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla placerat pretium tempus. Mauris eget nisl ante. Etiam iaculis, nisl ultricies facilisis aliquet, urna odio porta nisi, non tristique enim sapien eget mi. Proin sed orci lobortis, sodales orci quis, consectetur nulla. Phasellus eget enim rhoncus, fermentum nisi ut, aliquet nulla. Sed mollis ullamcorper dolor, at tempus est vulputate eget. Mauris consequat felis nec eros venenatis, sit amet tempor neque consectetur. Curabitur pharetra, metus a sodales fermentum, neque libero sollicitudin magna, eget fermentum sapien dolor sit amet dolor. Fusce odio felis, pulvinar in laoreet at, sodales sed magna. Sed sagittis, enim id feugiat laoreet, erat nisi rhoncus ipsum, vitae suscipit quam nulla id libero. Integer condimentum, eros eget rutrum porta, tortor turpis sodales ligula, a facilisis nisi tortor id risus. ^[You can also include notes inline, and don't need to create an identifier for them]
+#### Decision-Making Bottlenecks
 
-# Section 2 
+* One person is making too-many decisions  
+* Decisions feel misaligned with project mission  
+* Lack of clear decision-making processes
 
-![A Venn diagram of the Scientific Open Source Landscape](https://dropshare.duckles.nz/scienceoss.jpg)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla placerat pretium tempus. Mauris eget nisl ante. Etiam iaculis, nisl ultricies facilisis aliquet, urna odio porta nisi, non tristique enim sapien eget mi. Proin sed orci lobortis, sodales orci quis, consectetur nulla. Phasellus eget enim rhoncus, fermentum nisi ut, aliquet nulla. Sed mollis ullamcorper dolor, at tempus est vulputate eget. Mauris consequat felis nec eros venenatis, sit amet tempor neque consectetur. Curabitur pharetra, metus a sodales fermentum, neque libero sollicitudin magna, eget fermentum sapien dolor sit amet dolor. Fusce odio felis, pulvinar in laoreet at, sodales sed magna. Sed sagittis, enim id feugiat laoreet, erat nisi rhoncus ipsum, vitae suscipit quam nulla id libero. Integer condimentum, eros eget rutrum porta, tortor turpis sodales ligula, a facilisis nisi tortor id risus. [@geiger_challenges_2018]
+#### Community Health Indicators
 
-# Conclusion 
+* Difficulty onboarding new members  
+* Declining community participation  
+* People showing up to "win" rather than collaborate  
+* Absence of diverse perspectives
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla placerat pretium tempus. Mauris eget nisl ante. Etiam iaculis, nisl ultricies facilisis aliquet, urna odio porta nisi, non tristique enim sapien eget mi. Proin sed orci lobortis, sodales orci quis, consectetur nulla. Phasellus eget enim rhoncus, fermentum nisi ut, aliquet nulla. Sed mollis ullamcorper dolor, at tempus est vulputate eget. Mauris consequat felis nec eros venenatis, sit amet tempor neque consectetur. Curabitur pharetra, metus a sodales fermentum, neque libero sollicitudin magna, eget fermentum sapien dolor sit amet dolor. Fusce odio felis, pulvinar in laoreet at, sodales sed magna. Sed sagittis, enim id feugiat laoreet, erat nisi rhoncus ipsum, vitae suscipit quam nulla id libero. Integer condimentum, eros eget rutrum porta, tortor turpis sodales ligula, a facilisis nisi tortor id risus.
+#### Operational Red Flags
 
-## Including Tables 
-| Country           | Population      |
-|-------------------|-----------------|
-| China             | 1,412,600,000   |
-| India             | 1,366,000,000   |
-| United States     | 331,000,000     |
-| Indonesia         | 273,500,000     |
-| Pakistan          | 220,900,000     |
-| Brazil            | 212,600,000     |
-| Nigeria           | 206,100,000     |
-| Bangladesh        | 166,300,000     |
-| Russia            | 146,700,000     |
-| Mexico            | 126,000,000     |
+* Project falls apart when key people are unavailable  
+* Lack of transparent communication  
+* No clear succession planning  
+* Emerging "fiefdoms" within the project
+
+## Developing a Healthy Governance Approach
+
+---
+
+### Principles for Effective Governance:
+
+#### Mission-Centered
+
+* Always return to the project's core mission  
+* Governance should serve the project's goals  
+* Transparency is better than specific structural details
+
+#### Inclusive Participation
+
+* Actively solicit underrepresented voices  
+* Create multiple entry points for contribution  
+* Value non-code contributions  
+* Be open by default
+
+### Practical Strategies:
+
+#### Proactive Review Processes
+
+* Talk about governance early and often in project development  
+* Schedule regular governance check-ins  
+* Use external moderators when possible  
+* Conduct periodic community exercises to realign on values
+
+#### Succession and Sustainability
+
+* Implement shadowing/mentorship programs  
+* Continuously train potential future leaders, maintainers, and core team members  
+* Create systems that outlast individual contributors
+
+#### Community Engagement
+
+* Establish clear communication channels  
+* Provide opportunities for constructive feedback  
+* Create smaller working groups  
+* Normalize discussing governance openly
+
+## Recommended Implementation Steps
+
+---
+
+1. Document current processes  
+2. Identify potential governance challenges  
+3. Create transparent decision-making frameworks  
+4. Build in flexibility for future evolution  
+5. Prioritize community well-being
+
+### Warning: Common Pitfalls
+
+* Resisting change  
+* Centralizing too much power  
+* Ignoring community feedback  
+* Treating governance as a static concept
+
+## 
+
+## Resources
+
+* POSI \- [Principles of Open Scholarly Infrastructure](https://openscholarlyinfrastructure.org/)  
+* [Organizational Change for Open Science](https://gvwilson.github.io/change/)
+
+**Remember:** Governance is a journey, not a destination. Stay adaptable, mission-focused, and community-oriented.
+
+
 
 <!-- FOOTER & LOGOS Please do not modify below --> 
 ----
