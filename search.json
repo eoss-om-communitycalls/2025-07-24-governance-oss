@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "CONTRIBUTING.html",
+    "href": "CONTRIBUTING.html",
+    "title": "Contributing",
+    "section": "",
+    "text": "This is a community open source project to gather and share wisdom from the CZI EOSS Community. Organizational Mycology works to faciltiate theses resources on behalf of the EOSS Community.\nWe are looking for contributions that add topics and enhance our resources for the benefit of other Open Source Leaders.\n\n\nBy contributing, you agree that we may redistribute your work under our license\nYou agree to abide by the CZI Community Participation Guidelines in this space.\n\n\n\nThe easiest way to get started is to file an issue to tell us about a spelling mistake, some awkward wording, or a factual error. This is a good way to introduce yourself and to meet some of our community members.\n\nIf you do not have a [GitHub][github] account, you can [send us comments by email][contact]. However, we will be able to respond more quickly if you use one of the other methods described below.\nIf you have a [GitHub][github] account, or are willing to [create one][github-join], but do not know how to use Git, you can report problems or suggest improvements by [creating an issue][issues]. This allows us to assign the item to someone and to respond to it in a threaded discussion.\nIf you are comfortable with Git, and would like to add or change material, you can submit a pull request (PR).\n\nThis contributor guide was adapted from that of Software Carpentry, The Carpentries"
+  },
+  {
+    "objectID": "CONTRIBUTING.html#contributor-agreement",
+    "href": "CONTRIBUTING.html#contributor-agreement",
+    "title": "Contributing",
+    "section": "",
+    "text": "By contributing, you agree that we may redistribute your work under our license\nYou agree to abide by the CZI Community Participation Guidelines in this space."
+  },
+  {
+    "objectID": "CONTRIBUTING.html#how-to-contribute-a-fix-or-suggested-change",
+    "href": "CONTRIBUTING.html#how-to-contribute-a-fix-or-suggested-change",
+    "title": "Contributing",
+    "section": "",
+    "text": "The easiest way to get started is to file an issue to tell us about a spelling mistake, some awkward wording, or a factual error. This is a good way to introduce yourself and to meet some of our community members.\n\nIf you do not have a [GitHub][github] account, you can [send us comments by email][contact]. However, we will be able to respond more quickly if you use one of the other methods described below.\nIf you have a [GitHub][github] account, or are willing to [create one][github-join], but do not know how to use Git, you can report problems or suggest improvements by [creating an issue][issues]. This allows us to assign the item to someone and to respond to it in a threaded discussion.\nIf you are comfortable with Git, and would like to add or change material, you can submit a pull request (PR).\n\nThis contributor guide was adapted from that of Software Carpentry, The Carpentries"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Governance Signals and Strategies for Open Source Scientific Projects",
+    "section": "",
+    "text": "In this document, we share insights discussed in the Chan-Zuckerberg Initiative’s Essential Open Source Software program community call held on July 24, 2025.\nThis resource is intended to be a conversation-starter for open source software project leaders, their collaborators, staff, and community.\nThe topics contained in the first version of this document reflect only what we discussed on the CZI EOSS community call. We encourage suggestions and contributions to expand the scope of scaling strategies that open source project leaders should consider when managing a project, as well as resources that would be helpful to leaders and their projects."
+  },
+  {
+    "objectID": "index.html#developing-a-healthy-governance-approach",
+    "href": "index.html#developing-a-healthy-governance-approach",
+    "title": "Governance Signals and Strategies for Open Source Scientific Projects",
+    "section": "Developing a Healthy Governance Approach",
+    "text": "Developing a Healthy Governance Approach\n\n\nPrinciples for Effective Governance:\n\nMission-Centered\n\nAlways return to the project’s core mission\n\nGovernance should serve the project’s goals\n\nTransparency is better than specific structural details\n\n\n\nInclusive Participation\n\nActively solicit underrepresented voices\n\nCreate multiple entry points for contribution\n\nValue non-code contributions\n\nBe open by default\n\n\n\n\nPractical Strategies:\n\nProactive Review Processes\n\nTalk about governance early and often in project development\n\nSchedule regular governance check-ins\n\nUse external moderators when possible\n\nConduct periodic community exercises to realign on values\n\n\n\nSuccession and Sustainability\n\nImplement shadowing/mentorship programs\n\nContinuously train potential future leaders, maintainers, and core team members\n\nCreate systems that outlast individual contributors\n\n\n\nCommunity Engagement\n\nEstablish clear communication channels\n\nProvide opportunities for constructive feedback\n\nCreate smaller working groups\n\nNormalize discussing governance openly"
+  },
+  {
+    "objectID": "index.html#recommended-implementation-steps",
+    "href": "index.html#recommended-implementation-steps",
+    "title": "Governance Signals and Strategies for Open Source Scientific Projects",
+    "section": "Recommended Implementation Steps",
+    "text": "Recommended Implementation Steps\n\n\nDocument current processes\n\nIdentify potential governance challenges\n\nCreate transparent decision-making frameworks\n\nBuild in flexibility for future evolution\n\nPrioritize community well-being\n\n\nWarning: Common Pitfalls\n\nResisting change\n\nCentralizing too much power\n\nIgnoring community feedback\n\nTreating governance as a static concept"
+  },
+  {
+    "objectID": "index.html#resources",
+    "href": "index.html#resources",
+    "title": "Governance Signals and Strategies for Open Source Scientific Projects",
+    "section": "Resources",
+    "text": "Resources\n\nPOSI - Principles of Open Scholarly Infrastructure\n\nOrganizational Change for Open Science\n\nRemember: Governance is a journey, not a destination. Stay adaptable, mission-focused, and community-oriented."
+  },
+  {
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
+    "title": "Governance Signals and Strategies for Open Source Scientific Projects",
+    "section": "",
+    "text": "This resource was generated as part of CZI’s EOSS Community Calls during late 2024 with Organizational Mycology facilitating discussions, gathering input, and generating the final document. Participants in the calls, and open comment periods are given co-authorship in alphabetical order by last name."
+  }
+]
